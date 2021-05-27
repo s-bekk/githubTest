@@ -12,7 +12,7 @@ N11626869
 typedef struct intel { //Declaration of Struct
 	int n;  //Number
     char str[50];  //String
-};
+};    //test
 
 void print(int nStructs, intel* structArr); //Prints out contents of each Struct
 
